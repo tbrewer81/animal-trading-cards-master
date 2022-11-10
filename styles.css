@@ -1,1 +1,54 @@
-/* add your CSS here */
+/* aselector {
+    property:value;
+}
+body {
+    font-family: Xahn Mono;
+    color: rgb(179, 255, 0);
+    background-color: red;
+    text-align: center;
+    border-top: rgb(196, 133, 40);
+    border:3px dotted
+    ;
+    width:420px;
+    height:800px;
+}
+
+.h3 {color:yellow;
+    font-family: Xahn Mono;
+}
+
+img {
+    border: 5px dotted;
+     color:yellow;
+     width: 300px;
+     height: 300px;
+     margin-left:75px;
+     margin-right: 75px;
+  }
+  .name {
+    width:400px
+    text-align:center;
+    
+    
+  }
+  li{list-style: none;}
+  
+  .body-border{
+    color: yellow;
+    
+    
+    border: 5px dotted
+    ;
+    
+    border-radius: 20px;
+    height: 380px;
+    width: 300px;
+    margin-left: 75px;
+    margin-right: 75px;
+    font-style: italic;
+    
+  }
+
+
+
+  dd your CSS here */
